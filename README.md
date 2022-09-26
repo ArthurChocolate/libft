@@ -42,3 +42,14 @@ In addition to the standard functions of Libc you need to implement several func
 • putstr_fd</br>
 • putendl_fd</br>
 • putnbr_fd</br>
+
+In the bonus part it was necessary to implement a set of functions to work with a singly linked list:</br>
+• lstnew</br>
+• lstadd_front</br>
+• lstsize</br>
+• lstlast</br>
+• lstadd_back</br>
+• lstdelone</br>
+• lstclear</br>
+• lstiter</br>
+• lstmap</br>
