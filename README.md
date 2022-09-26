@@ -29,3 +29,16 @@ In the project you need to implement the following functions of Libc: </br>
 • atoi</br>
 • calloc</br>
 • strdup</br>
+
+In addition to the standard functions of Libc you need to implement several functions that are not in it:</br>
+• substr</br>
+• strjoin</br>
+• strtrim</br>
+• split</br>
+• itoa</br>
+• strmapi</br>
+• striteri</br>
+• putchar_fd</br>
+• putstr_fd</br>
+• putendl_fd</br>
+• putnbr_fd</br>
